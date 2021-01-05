@@ -9,7 +9,7 @@
     "protoJson": "pbjs -t json src/proto/*.proto > src/protoGenerate/proto.json"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "protobufjs": "^6.8.8",
     "vue": "^2.6.10",
